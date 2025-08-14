@@ -1,3 +1,5 @@
+# made by c2rcuit on github btw
+
 import subprocess
 
 scripts = [
